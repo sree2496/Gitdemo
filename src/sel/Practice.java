@@ -6,9 +6,8 @@ public class Practice {
 
 	public static void main(String[] args) {
 		
-		System.out.println("sree1");
-		System.out.println("sree2");
-		System.out.println("sree3");
+		System.out.println("ios app");
+		System.out.println("android app");
 	/*	String space = " ";
 		int TotalSpaces = 15;
 		int numMax = 3;
